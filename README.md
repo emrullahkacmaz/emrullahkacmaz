@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emrullahkacmaz
+- 👋 Hi, I’m Emrullah
 - 👀 I’m interested in Frontend, Mobile, Js development
 - 🌱 I’m currently learning React, React Native
 - 📫 How to reach me emrullahkacmazim@gmail.com
