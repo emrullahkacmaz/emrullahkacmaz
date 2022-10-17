@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emrullah
 - 👀 I’m interested in Frontend, Mobile, Js development
-- 🌱 I’m currently learning React, React Native
+- 🌱 I’m currently learning React, React Native, Node.js
 - 📫 How to reach me emrullahkacmazim@gmail.com
 
 <!---
